@@ -1,0 +1,5 @@
+MarbleRun/Content/StarterContent
+MarbleRun/Intermediate/AssetRegistryCache
+MarbleRun/Saved/Autosaves
+*.bin
+*.log
