@@ -3,3 +3,12 @@ MarbleRun/Intermediate/AssetRegistryCache
 MarbleRun/Saved/Autosaves
 *.bin
 *.log
+
+CrystalCavern/Content/StarterContent
+CrystalCavern/Intermediate/AssetRegistryCache
+CrystalCavern/Saved/Autosaves
+CrystalCavern/Content/ThirdPerson
+CrystalCavern/Content/ThirdPersonBP
+CrystalCavern/Content/ScienceLab
+CrystalCavern/Content/Polar
+CrystalCavern/Content/Mannequin
