@@ -5,8 +5,8 @@ MarbleRun/Saved/Autosaves
 *.log
 
 CrystalCavern/Content/StarterContent
-CrystalCavern/Intermediate/AssetRegistryCache
-CrystalCavern/Saved/Autosaves
+CrystalCavern/Intermediate
+CrystalCavern/Saved/
 CrystalCavern/Content/ThirdPerson
 CrystalCavern/Content/ThirdPersonBP
 CrystalCavern/Content/ScienceLab
